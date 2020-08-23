@@ -45,6 +45,8 @@
           "tsx": "never"
         }
       ],
+      "camelcase": "off",
+      "import/no-duplicates": "off",
       "prettier/prettier": "error"
     },
     "settings": {
